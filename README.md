@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuviguru
-- 👀 I’m interested in full stack development using Node/PHP and React/Angular/Vue
-- 🌱 I’m currently learning AWS and GCP
+- 👀 I’m interested in full stack development using Node/PHP and React(Next, Gatsby)/Vue
+- 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on JS projects and libraries
 - 📫 You can reach me at yuvaguru.guru8@gmail.com
